@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Don Julio",
+    "clicked": false,
+    "image": "https://static.vinepair.com/wp-content/uploads/2017/04/tequila-dj.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Calle 23",
+    "clicked": false,
+    "image": "https://static.vinepair.com/wp-content/uploads/2017/04/teq-calle23.jpg"
+  },
+  {
+    "id": 3,
+    "name": "OCHO",
+    "clicked": false,
+    "image": "https://static.vinepair.com/wp-content/uploads/2017/04/ocho-v2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tapatio",
+    "clicked": false,
+    "image": "https://static.vinepair.com/wp-content/uploads/2017/04/teq-tapatio.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Patron",
+    "clicked": false,
+    "image": "https://static.vinepair.com/wp-content/uploads/2017/04/teq-patron.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cabeza",
+    "clicked": false,
+    "image": "https://static.vinepair.com/wp-content/uploads/2017/04/teq-cabeza.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Jose Cuervo",
+    "clicked": false,
+    "image": "https://static.vinepair.com/wp-content/uploads/2017/04/teq-jc.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Herradura",
+    "clicked": false,
+    "image": "https://static.vinepair.com/wp-content/uploads/2017/04/teq-herradura.jpg"
+  },
+  {
+    "id": 9,
+    "name": "El Jimador",
+    "clicked": false,
+    "image": "https://static.vinepair.com/wp-content/uploads/2017/04/teq-jimador.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Espolon",
+    "clicked": false,
+    "image": "https://static.vinepair.com/wp-content/uploads/2017/04/teq-espolon.jpg"
+  }
+]
